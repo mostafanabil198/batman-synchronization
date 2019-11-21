@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1574360505 source:/media/mostafanabil198/New Volume1/Kolya/3rd-year/1st-term/os/assignments/code/lab 3/batman/main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<Bat.h>
+	<Monitor.h>
+
+1574360385 source:/media/mostafanabil198/New Volume1/Kolya/3rd-year/1st-term/os/assignments/code/lab 3/batman/src/Monitor.cpp
+	"Monitor.h"
+
+1574359577 /media/mostafanabil198/New Volume1/Kolya/3rd-year/1st-term/os/assignments/code/lab 3/batman/include/Monitor.h
+	<pthread.h>
+	<Bat.h>
+	<iostream>
+	<bits/stdc++.h>
+	<unistd.h>
+
+1574360588 source:/media/mostafanabil198/New Volume1/Kolya/3rd-year/1st-term/os/assignments/code/lab 3/batman/src/Bat.cpp
+	"Bat.h"
+
+1574351702 /media/mostafanabil198/New Volume1/Kolya/3rd-year/1st-term/os/assignments/code/lab 3/batman/include/Bat.h
+	<iostream>
+	<bits/stdc++.h>
+
